@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings for each week of the course,
+  and includes links to lecture summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction to the course
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#1)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#1" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ No Readings
 
 The discovery of RNA interference
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#2)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#2" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Waterhouse, P. M., M. Kertesz, et al. "[Virus Resistance and Gene Silencing in P
 
 Endogenous miRNA
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#3)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#3" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ Pasquinelli, A. E., B. J. Reinhart, et al. "[Conservation of the Sequence and Te
 
 miRNA biogenesis pathway
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#4)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#4" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +136,7 @@ Hammond, S. M., S. Boettcher, et al. "[Argonaute2, A Link between Genetic and Bi
 
 Harnessing RNAi as a tool
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#5)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#5" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +164,7 @@ Brummelkamp, T. R., R. Bernards, et al. "[A System for Stable Expression of Shor
 
 miRNAs in development
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#6)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#6" %}}
 
 
 {{< tdclose >}}
@@ -190,7 +192,7 @@ Xiao, C., D. P. Calado, et al. "[MiR-150 Controls B Cell Differentiation by Targ
 
 miRNAs in cancer: tumor suppressors and oncogenes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#7)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#7" %}}
 
 
 {{< tdclose >}}
@@ -218,7 +220,7 @@ Kumar, M. S., S. J. Erkeland, et al. "[Suppression of Non-small Cell Lung Tumor 
 
 RNAi therapeutics
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#8)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#8" %}}
 
 
 {{< tdclose >}}
@@ -246,7 +248,7 @@ Elmén, J., M. Lindow, et al. "[LNA-mediated MicroRNA Silencing in Non-human Pri
 
 Visit to Alnylam
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#9)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#9" %}}
 
 
 {{< tdclose >}}
@@ -264,7 +266,7 @@ No Readings
 
 Other classes of small noncoding RNAs: piRNAs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#10)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#10" %}}
 
 
 {{< tdclose >}}
@@ -292,7 +294,7 @@ Khurana, J. S., J. Wang, et al. "[Adaptation to _P_ Element Transposon Invasion 
 
 Long noncoding RNAs: XIST
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#11)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#11" %}}
 
 
 {{< tdclose >}}
@@ -320,7 +322,7 @@ Zhao, J., B. K. Sun, et al. "[Polycomb Proteins Targeted by a Short Repeat RNA t
 
 Long noncoding RNAs: lincRNAs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#12)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#12" %}}
 
 
 {{< tdclose >}}
@@ -348,7 +350,7 @@ Rinn, J. L., M. Kertesz, et al. "[Functional Demarcation of Active and Silent Ch
 
 Final class—Oral presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#13)
+{{% resource_link 5f3c6b9c-7372-fc45-8a15-04c08d223039 "See the Lecture Summary" "#13" %}}
 
 
 {{< tdclose >}}
