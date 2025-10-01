@@ -141,7 +141,7 @@ A first-hand look at a player in the newly-emerging private sector pursuing RNAi
 Other classes of small noncoding RNAs: piRNAs
 {{< tdclose >}}
 {{< tdopen >}}
-[PIWI-interacting RNAs](http://en.wikipedia.org/wiki/Piwi-interacting_RNA) (piRNAs) are a distinct class of small non-coding RNAs in the germ line of many animal species. First, we will discuss a study that identifies mammalian piRNAs and their machinery. This study also describes their role in maintaining genome-stability in the germ line by epigenetic silencing of transposable elements. To understand the origin and evolution of piRNAs, we will examine a recent study that determines how piRNAs respond to the presence of new transposable elements in the germ line.{{< anchor "11" >}}{{< /anchor >}}
+{{% resource_link "fb52df1c-edcf-4d0b-ac69-f233c087071f" "PIWI-interacting RNAs" %}} (piRNAs) are a distinct class of small non-coding RNAs in the germ line of many animal species. First, we will discuss a study that identifies mammalian piRNAs and their machinery. This study also describes their role in maintaining genome-stability in the germ line by epigenetic silencing of transposable elements. To understand the origin and evolution of piRNAs, we will examine a recent study that determines how piRNAs respond to the presence of new transposable elements in the germ line.{{< anchor "11" >}}{{< /anchor >}}
 {{< tdclose >}}
 
 {{< trclose >}}

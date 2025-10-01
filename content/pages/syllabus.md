@@ -29,7 +29,7 @@ Course Description
 
 Every time we scientists think that we have dissected the precise biological nature of a process, an incidental finding, a brilliantly designed experiment, or an unexpected result can turn our world upside down. Non-coding RNAs, discovered through both luck and perseverance, are striking examples of this concept. Until recently thought by many to be cellular "junk" because they do not encode proteins, non-coding RNAs are gaining a growing recognition for their roles in the regulation of a wide scope of processes, ranging from embryogenesis and development to cancer and degenerative disorders. The aim of this class is to introduce the diversity of the RNA world, inhabited by microRNAs, lincRNAs, piRNAs, and many others. Our goal is to glean insights into the functional importance of these RNA molecules and to understand the mechanisms of their action. We will discuss landmark studies that offer a historical perspective as well as read papers from the latest issues of scientific journals to learn about the most recent developments in this rapidly evolving field. We will discover how changes in non-coding RNAs can lead to disease and how we can explore the therapeutic potential of non-coding RNAs.
 
-This course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.
+This course is one of many {{% resource_link "25be021c-86ed-42e3-a36c-2a3ca2b0f73e" "Advanced Undergraduate Seminars" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.
 
 Goals
 -----
@@ -173,7 +173,7 @@ RNAi therapeutics
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Visit to [Alnylam Pharmaceuticals](http://www.alnylam.com/)
+Visit to {{% resource_link "a02a4291-b3b8-4843-b89c-94cf8fb10ae2" "Alnylam Pharmaceuticals" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  

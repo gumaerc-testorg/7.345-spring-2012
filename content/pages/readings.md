@@ -61,11 +61,11 @@ The discovery of RNA interference
 
 ### Paper 1
 
-Fire, A., S. Xu, et al. "[Potent and Specific Genetic Interference by Double-stranded RNA in Caenorhabditis Elegans](http://dx.doi.org/10.1038/35888)." _Nature_ 391, no. 6669 (1998): 806–11.
+Fire, A., S. Xu, et al. "{{% resource_link "aba26070-d41a-4002-88ec-3f89b4d68ac0" "Potent and Specific Genetic Interference by Double-stranded RNA in Caenorhabditis Elegans" %}}." _Nature_ 391, no. 6669 (1998): 806–11.
 
 ### Paper 2
 
-Waterhouse, P. M., M. Kertesz, et al. "[Virus Resistance and Gene Silencing in Plants can be Induced by Simultaneous Expression of Sense and Antisense RNA](http://dx.doi.org/10.1073/pnas.95.23.13959)." _Proceedings of the National Academy of Sciences of the United States of America_ 95, no. 23 (1998): 13959–64.
+Waterhouse, P. M., M. Kertesz, et al. "{{% resource_link "f9ac3979-1c29-4bad-adab-111177f458e4" "Virus Resistance and Gene Silencing in Plants can be Induced by Simultaneous Expression of Sense and Antisense RNA" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 95, no. 23 (1998): 13959–64.
 
 
 {{< tdclose >}}
@@ -89,11 +89,11 @@ Endogenous miRNA
 
 ### Paper 1
 
-Lee, R. C., R. L. Feinbaum, et al. "[The C. Elegans Heterochronic Gene _lin-4_ Encodes Small RNAs with Antisense Complementarity to _lin-14_](http://dx.doi.org/10.1016/0092-8674(93)90529-Y)." _Cell_ 75, no. 5 (1993): 843–54.
+Lee, R. C., R. L. Feinbaum, et al. "{{% resource_link "fa55cd48-0043-481e-92e0-706f095c9b41" "The C. Elegans Heterochronic Gene _lin-4_ Encodes Small RNAs with Antisense Complementarity to _lin-14_" %}}." _Cell_ 75, no. 5 (1993): 843–54.
 
 ### Paper 2
 
-Pasquinelli, A. E., B. J. Reinhart, et al. "[Conservation of the Sequence and Temporal Expression of _let-7_ Heterochronic Regulatory RNA](http://dx.doi.org/10.1038/35040556)." _Nature_ 408, no. 6808 (2000): 86–9.
+Pasquinelli, A. E., B. J. Reinhart, et al. "{{% resource_link "cb8799a4-f595-48cb-a69e-23df68aec225" "Conservation of the Sequence and Temporal Expression of _let-7_ Heterochronic Regulatory RNA" %}}." _Nature_ 408, no. 6808 (2000): 86–9.
 
 
 {{< tdclose >}}
@@ -117,11 +117,11 @@ miRNA biogenesis pathway
 
 ### Paper 1
 
-Grishok, A., A. E. Pasquinelli, et al. "[Genes and Mechanisms Related to RNA Interference Regulate Expression of the Small Temporal RNAs that Control C. _elegans_ Developmental Timing](http://dx.doi.org/10.1016/S0092-8674(01)00431-7)." _Cell_ 106, no. 1 (2001): 23–34.
+Grishok, A., A. E. Pasquinelli, et al. "{{% resource_link "ac7a1603-031b-4bfd-a53d-6708e564d3f1" "Genes and Mechanisms Related to RNA Interference Regulate Expression of the Small Temporal RNAs that Control C. _elegans_ Developmental Timing" %}}." _Cell_ 106, no. 1 (2001): 23–34.
 
 ### Paper 2
 
-Hammond, S. M., S. Boettcher, et al. "[Argonaute2, A Link between Genetic and Biochemical Analyses of RNAi](http://dx.doi.org/10.1126/science.1064023)." _Nature_ 293, no. 5532 (2001): 1146–50.
+Hammond, S. M., S. Boettcher, et al. "{{% resource_link "fc0bbdfb-a8fe-4d78-906b-208552d667a1" "Argonaute2, A Link between Genetic and Biochemical Analyses of RNAi" %}}." _Nature_ 293, no. 5532 (2001): 1146–50.
 
 
 {{< tdclose >}}
@@ -145,11 +145,11 @@ Harnessing RNAi as a tool
 
 ### Paper 1
 
-Elbashir, S. M., J. Harborth, et al. "[Duplexes of 21-nucleotide RNAs Mediate RNA Interference in Cultured Mammalian Cells](http://dx.doi.org/10.1038/35078107)." _Nature_ 411, no. 6836 (2001): 494–8.
+Elbashir, S. M., J. Harborth, et al. "{{% resource_link "0a2f987d-5a42-49d8-8e63-bb596d551a6e" "Duplexes of 21-nucleotide RNAs Mediate RNA Interference in Cultured Mammalian Cells" %}}." _Nature_ 411, no. 6836 (2001): 494–8.
 
 ### Paper 2
 
-Brummelkamp, T. R., R. Bernards, et al. "[A System for Stable Expression of Short Interfering RNAs in Mammalian Cells](http://dx.doi.org/10.1126/science.1068999)." _Nature_ 296, no. 5567 (2002): 550–53.
+Brummelkamp, T. R., R. Bernards, et al. "{{% resource_link "86766c09-4634-4123-8e91-26871a319e06" "A System for Stable Expression of Short Interfering RNAs in Mammalian Cells" %}}." _Nature_ 296, no. 5567 (2002): 550–53.
 
 
 {{< tdclose >}}
@@ -173,11 +173,11 @@ miRNAs in development
 
 ### Paper 1
 
-Zhao, Y., J. F. Ransom, et al. "[Dysregulation of Cardiogenesis, Cardiac Conduction, and Cell Cycle in Mice Lacking miRNA-1-2](http://dx.doi.org/10.1016/j.cell.2007.03.030)." _Cell_ 129, no. 2 (2007): 303–17.
+Zhao, Y., J. F. Ransom, et al. "{{% resource_link "4d843d0d-fdea-4572-8085-35dc5f716e09" "Dysregulation of Cardiogenesis, Cardiac Conduction, and Cell Cycle in Mice Lacking miRNA-1-2" %}}." _Cell_ 129, no. 2 (2007): 303–17.
 
 ### Paper 2
 
-Xiao, C., D. P. Calado, et al. "[MiR-150 Controls B Cell Differentiation by Targeting the Transcription Factor c-Myb](http://dx.doi.org/10.1016/j.cell.2007.07.021)." _Cell_ 131, no. 1 (2007): 146–59.
+Xiao, C., D. P. Calado, et al. "{{% resource_link "14ec4f0f-83de-45b3-91e3-67dad09bc22d" "MiR-150 Controls B Cell Differentiation by Targeting the Transcription Factor c-Myb" %}}." _Cell_ 131, no. 1 (2007): 146–59.
 
 
 {{< tdclose >}}
@@ -201,11 +201,11 @@ miRNAs in cancer: tumor suppressors and oncogenes
 
 ### Paper 1
 
-He, L., J. M. Thomson, et al. "[A MicroRNA Polycistron as a Potential Human Oncogene](http://dx.doi.org/10.1038/nature03552)." _Nature_ 435, no. 3552 (2005): 828–33.
+He, L., J. M. Thomson, et al. "{{% resource_link "1da362da-ae80-4131-8267-b0d6d897311a" "A MicroRNA Polycistron as a Potential Human Oncogene" %}}." _Nature_ 435, no. 3552 (2005): 828–33.
 
 ### Paper 2
 
-Kumar, M. S., S. J. Erkeland, et al. "[Suppression of Non-small Cell Lung Tumor Development by the _Let-7_ MicroRNA Family](http://dx.doi.org/10.1073/pnas.0712321105)." _Proceedings of the National Academy of Sciences of the United States of America_ 105, no. 10 (2008): 3903–8.
+Kumar, M. S., S. J. Erkeland, et al. "{{% resource_link "8ea8b23e-de19-4e2f-9c89-c34246a964b2" "Suppression of Non-small Cell Lung Tumor Development by the _Let-7_ MicroRNA Family" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 105, no. 10 (2008): 3903–8.
 
 
 {{< tdclose >}}
@@ -229,11 +229,11 @@ RNAi therapeutics
 
 ### Paper 1
 
-Soutschek, J., A. Akinc, et al. "[Therapeutic Silencing of an Endogenous Gene by Systemic Administration of Modified siRNAs](http://dx.doi.org/10.1038/nature03121)." _Nature_ 432, no. 3121 (2004): 173–8.
+Soutschek, J., A. Akinc, et al. "{{% resource_link "782db1f0-22b4-4ad4-b871-f92a0681476f" "Therapeutic Silencing of an Endogenous Gene by Systemic Administration of Modified siRNAs" %}}." _Nature_ 432, no. 3121 (2004): 173–8.
 
 ### Paper 2
 
-Elmén, J., M. Lindow, et al. "[LNA-mediated MicroRNA Silencing in Non-human Primates](http://dx.doi.org/10.1038/nature06783)." _Nature_ 452, no. 6783 (2008): 896–9.
+Elmén, J., M. Lindow, et al. "{{% resource_link "32200f2c-367c-440c-bd22-0b8dc9c7fa09" "LNA-mediated MicroRNA Silencing in Non-human Primates" %}}." _Nature_ 452, no. 6783 (2008): 896–9.
 
 
 {{< tdclose >}}
@@ -275,11 +275,11 @@ Other classes of small noncoding RNAs: piRNAs
 
 ### Paper 1
 
-Aravin, A. A., R. Sachidanandam, et al. "[Developmentally Regulated piRNA Clusters Implicate MILI in Transposon Control](http://dx.doi.org/10.1126/science.1142612)." _Science_ 316, no. 5825 (2007): 744–7.
+Aravin, A. A., R. Sachidanandam, et al. "{{% resource_link "c279f3ec-18a5-430d-ba9a-1f23c884dca7" "Developmentally Regulated piRNA Clusters Implicate MILI in Transposon Control" %}}." _Science_ 316, no. 5825 (2007): 744–7.
 
 ### Paper 2
 
-Khurana, J. S., J. Wang, et al. "[Adaptation to _P_ Element Transposon Invasion in _Drosophila Melanogaster_](http://dx.doi.org/10.1016/j.cell.2011.11.042)." _Cell_ 147, no. 7 (2011): 1551–63.
+Khurana, J. S., J. Wang, et al. "{{% resource_link "8bebe263-ca19-4162-8966-63a0ea2b4e04" "Adaptation to _P_ Element Transposon Invasion in _Drosophila Melanogaster_" %}}." _Cell_ 147, no. 7 (2011): 1551–63.
 
 
 {{< tdclose >}}
@@ -303,11 +303,11 @@ Long noncoding RNAs: XIST
 
 ### Paper 1
 
-Brockdorff, N., A. Ashworth, et al. "[The Product of the Mouse _Xist_ Gene is a 15 kb Inactive X-Specific Transcript Containing no Conserved ORF and Located in the Nucleus](http://dx.doi.org/10.1016/0092-8674(92)90519-I)." _Cell_ 71, no. 3 (1992): 515–26.
+Brockdorff, N., A. Ashworth, et al. "{{% resource_link "771f1abf-3c9e-4d56-b313-cb5fe0e3eabe" "The Product of the Mouse _Xist_ Gene is a 15 kb Inactive X-Specific Transcript Containing no Conserved ORF and Located in the Nucleus" %}}." _Cell_ 71, no. 3 (1992): 515–26.
 
 ### Paper 2
 
-Zhao, J., B. K. Sun, et al. "[Polycomb Proteins Targeted by a Short Repeat RNA to the Mouse X Chromosome](http://dx.doi.org/10.1126/science.1163045)." _Science_ 322, no. 5902 (2008): 750–6.
+Zhao, J., B. K. Sun, et al. "{{% resource_link "47970cb7-c23e-4823-9c54-addaa7c13729" "Polycomb Proteins Targeted by a Short Repeat RNA to the Mouse X Chromosome" %}}." _Science_ 322, no. 5902 (2008): 750–6.
 
 
 {{< tdclose >}}
@@ -331,11 +331,11 @@ Long noncoding RNAs: lincRNAs
 
 ### Paper 1
 
-Guttman, M., I. Amit, et al. "[Chromatin Signature Reveals Over a Thousand Highly Conserved Large Non-coding RNAs in Mammals](http://dx.doi.org/10.1038/nature07672)." _Nature_ 458, no. 7672 (2009): 223–7.
+Guttman, M., I. Amit, et al. "{{% resource_link "36a57b3a-600a-4305-9146-6e161b0f3b68" "Chromatin Signature Reveals Over a Thousand Highly Conserved Large Non-coding RNAs in Mammals" %}}." _Nature_ 458, no. 7672 (2009): 223–7.
 
 ### Paper 2
 
-Rinn, J. L., M. Kertesz, et al. "[Functional Demarcation of Active and Silent Chromatin Domains in Human _HOX_ Loci by Noncoding RNAs](http://dx.doi.org/10.1016/j.cell.2007.05.022)." _Cell_ 129, no. 7 (2007): 1311–23.
+Rinn, J. L., M. Kertesz, et al. "{{% resource_link "c12f548f-b231-48ee-95fa-efcc9e6dc7e9" "Functional Demarcation of Active and Silent Chromatin Domains in Human _HOX_ Loci by Noncoding RNAs" %}}." _Cell_ 129, no. 7 (2007): 1311–23.
 
 
 {{< tdclose >}}
